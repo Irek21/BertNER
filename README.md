@@ -1,1 +1,3 @@
 # BertNER
+
+Named entity recognition with BertForTokenClassification (Hugging face) on https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
